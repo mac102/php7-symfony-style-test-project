@@ -93,8 +93,8 @@ class Kernel
     }
 
     /**
-     * Usuwa wszystko z uri gdy adres nie wskazuje bezpo∂rednio na katalog public/
-     * np /projekty/proj1/public/
+     * Usuwa wszystko z uri gdy adres nie wskazuje bezpo≈õrednio na katalog public/
+     * np /projekty/proj1/public/...
      *
      * @param string $uri
      * @return string
